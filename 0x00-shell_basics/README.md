@@ -1,1 +1,1 @@
- This is our read me file content for shell basic
+script that prints the absolute path name of the current working directory
